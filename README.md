@@ -28,7 +28,7 @@ Welcome to my GitHub! I'm a full-stack developer with a strong focus on **backen
 ## 📫 Reach Out
 
 Feel free to connect or collaborate!  
-You can reach me via [LinkedIn](https://www.linkedin.com/in/satviksinha) or drop a message here on GitHub.
+You can reach me via [LinkedIn](https://www.linkedin.com/in/satviksinha02) or drop a message here on GitHub.
 
 ---
 

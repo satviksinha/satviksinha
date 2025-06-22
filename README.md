@@ -21,9 +21,9 @@ Welcome to my GitHub! I'm a full-stack developer with a strong focus on **backen
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=satviksinha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=satviksinha&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=satviksinha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Satvik's Github stats](https://github-readme-stats.vercel.app/api?username=satviksinha&show_icons=true&theme=merko)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satviksinha&hide=SCSS&layout=compact&theme=merko)
 
 ## 📫 Reach Out
 
